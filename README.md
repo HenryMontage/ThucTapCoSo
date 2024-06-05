@@ -1,2 +1,2 @@
 # ThucTapCoSo
-Bài Thực Tập Cơ Sở Các Game Phổ Biến
+Bài Thực Tập Cơ Sở Làm Các Game Phổ Biến
