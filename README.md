@@ -1,2 +1,2 @@
 # ThucTapCoSo
-Bài Thực Tập Cơ Sở Game Tetris
+Bài Thực Tập Cơ Sở Các Game Phổ Biến
