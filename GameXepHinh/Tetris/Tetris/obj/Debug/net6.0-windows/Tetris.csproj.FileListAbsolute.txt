@@ -1,0 +1,42 @@
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_Content.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\App.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_Content.g.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\GameXepHinh - Copy\Tetris\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll

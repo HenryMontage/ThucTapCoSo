@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|c:\\lap trinh dai hoc\\gamesetup c#\\gamexephinh\\tetris\\tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD31C8-2EEF-422F-B957-2FC5CA263889}|Tetris\\Tetris.csproj|solutionrelative:tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OBlock.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\OBlock.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeToolTip": "Tetris\\OBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T02:43:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LBlock.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\LBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\LBlock.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\LBlock.cs",
+              "RelativeToolTip": "Tetris\\LBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T02:42:56.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlock.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\IBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\IBlock.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\IBlock.cs",
+              "RelativeToolTip": "Tetris\\IBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T02:42:02.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockQueue.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeDocumentMoniker": "Tetris\\BlockQueue.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeToolTip": "Tetris\\BlockQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T16:51:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\Position.cs",
+              "RelativeDocumentMoniker": "Tetris\\Position.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\Position.cs",
+              "RelativeToolTip": "Tetris\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T16:36:17.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\GameGrid.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameGrid.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\GameGrid.cs",
+              "RelativeToolTip": "Tetris\\GameGrid.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T15:51:51.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\GameState.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameState.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\GameState.cs",
+              "RelativeToolTip": "Tetris\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:58:39.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T17:02:09.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-07T17:02:09.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\Block.cs",
+              "RelativeDocumentMoniker": "Tetris\\Block.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\GameSetup C#\\GameXepHinh\\Tetris\\Tetris\\Block.cs",
+              "RelativeToolTip": "Tetris\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T16:37:09.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
