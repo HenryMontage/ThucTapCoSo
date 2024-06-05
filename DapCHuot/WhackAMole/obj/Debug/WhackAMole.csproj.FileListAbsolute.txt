@@ -1,0 +1,75 @@
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Users\Admin\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Users\Admin\Documents\Zalo Received Files\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\WhackAMole (1)\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Workspace\LapTrinhHuongDoiTuong\DapCHuot\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Lap trinh Dai Hoc\GameSetup C#\DapCHuot\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Lap trinh Dai Hoc\FileDuLieu\BaiBaoCaoNhom10\DapCHuot\WhackAMole\obj\Debug\WhackAMole.pdb
